@@ -10,7 +10,7 @@ This Data Analysis project aim to provide insight into the sales performance of 
 
 ### Recommedation 
 
-RECOMMENDATIONS
+
 The WIXSIN Company Sales Dataset was Analysis and Excel Dashboard created by me. After Analysis this Dataset above, I discovered some the following: 
 - The company sales revenue were performing better in catergory like urban and in state like ontario and Alberta.
 - More sales strategy should be implemented in the regions, sectors and states not performing very well.
