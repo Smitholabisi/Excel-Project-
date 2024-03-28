@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This Data Analysis project aim to provide insight into the sales performance of their products and revenue of the year. After proper analysis of sale data of wixsin company, data driven insights and KPIs was generated with adaquate recommendation and deeper understanding of the company performance.
+This Data Analysis project aim to provide insight into the sales performance of their products and revenue of the year. After proper analysis of sales data of wixsin company, data driven insights and KPIs was generated with adaquate recommendation and deeper understanding of the company performance.
 
 
 ### Data Sources 
@@ -12,6 +12,7 @@ The dataset was a cvs excel file containing different tables information such as
 
 ### Tools 
 
+The tools used was Ms. Excel to cleaning data, analyse the data and for creating piovt table and dashbaord. 
 
 
 ### Recommedation 
