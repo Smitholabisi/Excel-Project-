@@ -8,7 +8,9 @@ This Data Analysis project aim to provide insight into the sales performance of 
 
 ### Data Sources 
 
-The dataset was a cvs excel file containing  information about the sale data made by the comp
+The dataset was a cvs excel file containing different tables information such as the location, maunfacturuer, sales, products made by the company. All the tables were consolidated together into one table. The dataset has some mising vlaues and columns which analysed and created by me.
+
+### Tools 
 
 
 
