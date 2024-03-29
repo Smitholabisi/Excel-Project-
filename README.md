@@ -40,9 +40,10 @@ The piovt table was created with some charts such as bar chart, pie chart and li
 
 ### Findings
 
-The category of the urban is performance than the others category at 86.96% while the least performing category is at 2.05%.
+- The category of the urban is performance than the others category at 86.96% while the least performing category is at 2.05%.
 
-The state with the highest revenue is Ontario at 31.70% while Alberta at 30.16%.
+- The state with the highest revenue is Ontario at 31.70% while Alberta at 30.16%.
+- The top product performing well is Maximus um-43 at $ 574,086.24
 
 
 
