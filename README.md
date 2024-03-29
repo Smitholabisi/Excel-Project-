@@ -36,12 +36,10 @@ Functions was used to bring (state, Maunfactuer name, products name, caterogry, 
   the above function was used to bring all the table into the consolidate table. 
 
 The piovt table was created with some charts such as bar chart, pie chart and line charts.
-[Pivot table](https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(11).png)
-(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(12).png) (https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(8).png)(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(9).png)
+[Pivot table](https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(11).png)(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(12).png) (https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(8).png)(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(9).png)
 
 
 ### Recommedation 
-
 
 The WIXSIN Company Sales Dataset was Analysis and Excel Dashboard created by me. After Analysis this Dataset above, I discovered some the following: 
 - The company sales revenue were performing better in catergory like urban and in state like ontario and Alberta.
