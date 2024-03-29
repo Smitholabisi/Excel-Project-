@@ -35,8 +35,7 @@ Functions was used to bring (state, Maunfactuer name, products name, caterogry, 
   = index(product_table[product name], match[product ID], product_table[products ID],0))
   the above function was used to bring all the table into the consolidate table. 
 
-
-
+The piovt table was created with some charts such as bar chart, pie chart and line charts.
 
 ### Recommedation 
 
