@@ -1,4 +1,4 @@
-## Wixsin Sales Analysis 
+ ## Wixsin Sales Analysis 
 
 
 ## Project Overview
@@ -27,6 +27,15 @@ The questions are:
 - What is the Top 5 Best selling Projects?
 - How does the revenue of company performance Monthly?
   
+The data analysis that was done in this dataset was creating consolidated which means common columns betweeen the tables.
+common column between the zip and country table is (Location table & Sales table). The common columns between the Maunfactuer ID and Product ID are ( Product table).
+Functions was used to bring (state, Maunfactuer name, products name, caterogry, segment) which is INDEX-MATCH functions:
+
+- product name
+  = index(product_table[product name], match[product ID], product_table[products ID],0))
+  the above function was used to bring all the table into the consolidate table. 
+
+
 
 
 ### Recommedation 
