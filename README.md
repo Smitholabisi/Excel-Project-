@@ -10,10 +10,14 @@ This Data Analysis project aim to provide insight into the sales performance of 
 
 The dataset was a cvs excel file containing different tables information such as the location, maunfacturuer, sales, products made by the company. All the tables were consolidated together into one table. The dataset has some mising vlaues and columns which analysed and created by me.
 
-### Tools 
+### Tools
 
 The tools used was Ms. Excel to cleaning data, analyse the data and for creating piovt table and dashbaord. 
 
+
+### Data Cleaning/preparation
+
+The dataset was loaded on Ms.Excel and steps was taken to inspect the dataset. The Excel spreadsheet consisted of different spreadsheets/tables which had to be merged together by consolidate the all as one spreadsheet. The spreadsheet was structured table 
 
 ### Recommedation 
 
