@@ -37,6 +37,7 @@ Functions was used to bring (state, Maunfactuer name, products name, caterogry, 
 
 The piovt table was created with some charts such as bar chart, pie chart and line charts.
 [Pivot table](https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(11).png)
+(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(12).png) (https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(8).png)(https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(9).png)
 
 
 ### Recommedation 
