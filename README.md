@@ -17,7 +17,17 @@ The tools used was Ms. Excel to cleaning data, analyse the data and for creating
 
 ### Data Cleaning/preparation
 
-The dataset was loaded on Ms.Excel and steps was taken to inspect the dataset. The Excel spreadsheet consisted of different spreadsheets/tables which had to be merged together by consolidate the all as one spreadsheet. The spreadsheet was structured table 
+The dataset was loaded on Ms.Excel and steps was taken to inspect the dataset. The Excel spreadsheet consisted of different spreadsheets/tables which had to be merged together by consolidate the all as one spreadsheet. The spreadsheet was structured into a table called sales_table. some column were not included in the spreadsheet such as Month, Week which was created by me but extrated from Date column. The dataset has a total number of 1412 rows, total number of 14 columns, total Revenue of $ 9,826,183 and total units of 1430. 
+
+### Data Exploratory and Analysis
+
+The questions are:
+- What is the contribution of each state in canada to revenue?
+- What is the proportion of category to Revenue?
+- What is the Top 5 Best selling Projects?
+- How does the revenue of company performance Monthly?
+  
+
 
 ### Recommedation 
 
