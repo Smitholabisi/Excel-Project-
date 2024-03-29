@@ -36,6 +36,8 @@ Functions was used to bring (state, Maunfactuer name, products name, caterogry, 
   the above function was used to bring all the table into the consolidate table. 
 
 The piovt table was created with some charts such as bar chart, pie chart and line charts.
+[Pivot table](https://github.com/Smitholabisi/Excel-Project-/blob/main/Screenshot%20(11).png)
+
 
 ### Recommedation 
 
